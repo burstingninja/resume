@@ -1,133 +1,194 @@
 {
-  "basics": {
-    "name": "Marco urrea",
-    "label": "Software",
-    "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQFj0eA4mewCMA/profile-displayphoto-shrink_200_200/0?e=1589414400&v=beta&t=TldmcYFykYfaPY7k6MXS3BqJsPF9OUFk_4ASmrUGU-w",
-    "email": "marco.urrea@me.com",
-    "phone": "+52 (811) 517-4004",
-    "website": "https://www.linkedin.com/in/marcourrea/",
-    "summary": "Marco lives in Monterrey. His work mostly focuses on cloud computing; among his other interests are martial arts, strength training and traveling.",
-    "location": {
-      "address": "San pedro 1320",
-      "postalCode": "66446",
-      "city": "San Nicolas de los Garza",
-      "countryCode": "MX",
-      "region": "Nuevo Leon"
-    },
-    "profiles": [{
-      "network": "Linkedin",
-      "username": "marcourrea",
-      "url": "https://www.linkedin.com/in/marcourrea/"
-    },
-    {
-      "network": "github",
-      "username": "burstingninja",
-      "url": "https://github.com/burstingninja/"
-    }]
-  },
-  "work": [{
-    "company": "Softtek",
-    "position": "Software Developer",
-    "website": "https://www.softtek.com",
-    "startDate": "2017-02-20",
-    "endDate": "2018-02-19",
-    "summary": "Improved processes and its performance",
-    "highlights": [
-      "Automation Lead Engineer in client account; summary of activities:",
-"SAP GUI Automation on C#, Automation of several transactions and several reports by comparing data against given metrics",
-"Heavy automation of processes on Service Now and other websites using Selenium",
-"Generated several Excel reports using EPPLUS and Microsoft Office interop Library for the automation of processes",
-"Desktop application development on C#",
-"Design of algorithms and application architecture for other projects",
-"Programmed some PowerShell scripts",
-"Client, user and app troubleshooting support and maintenance",
-"Back End Web Development Involving .Net Framework",
-"End-to-end development of several apps on different platforms",
-"Front End Web Development involving HTML5, JavaScript and CSS",
-    ]
-  },
-  {
-    "company": "Neoris",
-    "position": "Software Developer",
-    "website": "https://www.neoris.com",
-    "startDate": "2015-06-17",
-    "endDate": "2015-12-18",
-    "summary": "Intern",
-    "highlights": [
-      "PoCs of several libraries and frameworks",
-"Manual Quality Assurance testing of a system for a home improvement supplies retailing company",
-"Programmed a semaphore on C# for a factory",
-"UI usability tests of a system for a factory",
-"Performed image manipulation to overlap a set of images on Java, resulting in the output being sent to SAP MII"
-    ]
-  }],
-,
-  "education": [{
-    "institution": "Universidad Autonoma de Nuevo Leon",
-    "area": "Software Engineering",
-    "studyType": "Bachelor",
-    "startDate": "2011-09-01",
-    "endDate": "2016-12-04",
-    "courses": [
-    ]
-  }],
-  "skills": [{
-    "name": "Cloud Computing",
-    "level": "ADvanced",
-    "keywords": [
-      "Azure",
-      "Artificial Intelligence",
-      "Management",
-      "Web",
-      "ADF"
-    ]
-  }],
-  "languages": [{
-      "language": "Spanish",
-      "fluency": "Native speaker"
-    },
-    {
-      "language": "English",
-      "fluency": "Bilingual"
-    },
-    {
-      "language": "German",
-      "fluency": "Beginner"
-    },
-    {
-      "language": "French",
-      "fluency": "Beginner"
-    }
-  ],
-  "interests": [{
-    "name": "Martial Artis",
-    "keywords": [
-      "Ninjutsu",
-      "Bujinkan",
-      "Survival",
-      "Tactics"
-    ]
-  },
-  {
-    "name": "Weightlifting",
-    "keywords": [
-      "Strength Training",
-      "Sports",
-      "Survival",
-      "Barbell"
-    ]
-  },
-  {
-    "name": "Traveling",
-    "keywords": [
-      "World",
-      "Flights",
-      "Discovery",
-      "Luggage"
-    ]
-  }],
-  "references": [{
-    "name": "TBD",
-    "reference": "TBD"
-  }]
+	"basics": {
+		"name": "Marco urrea",
+		"label": "Software",
+		"picture": "https://media-exp1.licdn.com/dms/image/C4E03AQFj0eA4mewCMA/profile-displayphoto-shrink_200_200/0?e=1589414400&v=beta&t=TldmcYFykYfaPY7k6MXS3BqJsPF9OUFk_4ASmrUGU-w",
+		"email": "marco.urrea@me.com",
+		"phone": "+52 (811) 517-4004",
+		"website": "https://www.linkedin.com/in/marcourrea/",
+		"summary": "Marco lives in Monterrey. His work mostly focuses on cloud computing; among his other interests are martial arts, strength training and traveling.",
+		"location": {
+			"address": "San pedro 1320",
+			"postalCode": "66446",
+			"city": "San Nicolas de los Garza",
+			"countryCode": "MX",
+			"region": "Nuevo Leon"
+		},
+		"profiles": [{
+				"network": "Linkedin",
+				"username": "marcourrea",
+				"url": "https://www.linkedin.com/in/marcourrea/"
+			},
+			{
+				"network": "github",
+				"username": "burstingninja",
+				"url": "https://github.com/burstingninja/"
+			}
+		]
+	},
+	"work": [{
+			"company": "Digital OnUs",
+			"position": "Integration and Software Engineer",
+			"website": "https://www.digitalonus.com",
+			"startDate": "2019-05-27",
+			"endDate": "Present",
+			"summary": "Software Engineer with multiple skills",
+			"highlights": [
+				"Assignment for a Data integration company:",
+				"Creation of recipes and templates on the client's cloud solution to transfer data between different vendors/services such as Salesforce, NetSuite, Magento, Epicor, HubSpot, Workday, Zoho, SugarCRM, ConstantContact, Cherwell, ServiceNow; among others",
+				"Providing insights, and knowledge to constantly improve its cloud solution",
+				"Work with REST APIs",
+				"Reporting errors and helping to make improvements to the platform",
+				"Creation of documentation of processes and improving the existing ones",
+				"Simplification and improvement of existing scripts and projects",
+
+				"Achievements:",
+				"Consecutive high-performance recognition since August on detection of critical bugs and errors on client's cloud platform ",
+				"Generated documentation for a process which was set the new standard across the company for documentation",
+				"Set standards and conventions for its Cloud-based platform",
+
+				"Assignment for a Cloud Computing company:",
+				"Maintenance and extension of the current functionalities of PowerShell Scripts generated through C# code to communicate with the client’s platform",
+
+				"Side Activities:",
+				"Provided internal Docker training",
+				"SAML configuration from Azure AD side for Terraform Enterprise",
+				"Continuous training on HashiCorp products: Vault , Consul and Terraform",
+				"Contributed to the improvement of Terraform Enterprise documentation",
+				"Co-running a Vault Enterprise workshop"
+			]
+		},
+		{
+			"company": "Accenture",
+			"position": "Application Development Analyst",
+			"website": "https://www.accenture.com/",
+			"startDate": "2018-02-19",
+			"endDate": "2019-05-25",
+			"summary": "Cloud engineer with experience on Azure and Back-end Engineer",
+			"highlights": [
+				"Assignment for a major US oil and gas company",
+				"Create a cloud-based solution architecture involving Microsoft Azure services",
+				"Solution development and implementation through KANBAN/SCRUM methodologies",
+				"PoCs development implementing different OCR technologies and extraction methods",
+				"Provide consultation and technical advice on the best approaches to achieve the project solution",
+				"Onsite meetings in the clients office",
+				"AI and Analytics Platform list of activities",
+				"Processes optimization",
+				"PoCs of new Azure features and implementation using C# and Python",
+				"Development of .Net and .Net Core applications involving Azure services such as Azure Redis Cache, Azure Key Vault, MSI, Data Lake Store, Azure Data Factory v2, Web App, Container Registry, Azure Functions, Storage Account (BLOB Storage), Azure Search, Cognitive search, Microsoft LUIS; among other Azure Features and resources",
+				"Apps and Active Directory Management using PIM",
+				"Connection of Azure Services using MSI such as Key Vault and Web Apps, Azure Data Lake Store and Azure Data Factory v2",
+				"Model generation and training using Azure Machine Learning Workbench leveraging computing to Data Science virtual Machines involving docker",
+				"Model generation and training using Azure Machine Learning Service Workspace which involved Azure AutoML and Azure ML libraries, using its API for Python on Azure Notebooks (Jupyter Notebooks), and computing Data Science Virtual Machines and Batch AI processing capabilities",
+				"Development of several modules for IoT Edge devices involving docker and Stream Analytics",
+				"Provide Python internal training",
+				"Continuous contributions on the improvement of Microsoft and Azure Docs",
+				"Side Activities:",
+				"Provide C# and LINQ training for the Accenture Academy"
+			]
+		}, {
+			"company": "Softtek",
+			"position": "Software Developer",
+			"website": "https://www.softtek.com",
+			"startDate": "2017-02-20",
+			"endDate": "2018-02-15",
+			"summary": "Improved processes and its performance",
+			"highlights": [
+				"Automation Lead Engineer in client account; summary of activities:",
+				"SAP GUI Automation on C#, Automation of several transactions and several reports by comparing data against given metrics",
+				"Heavy automation of processes on Service Now and other websites using Selenium",
+				"Generated several Excel reports using EPPLUS and Microsoft Office interop Library for the automation of processes",
+				"Desktop application development on C#",
+				"Design of algorithms and application architecture for other projects",
+				"Programmed some PowerShell scripts",
+				"Client, user and app troubleshooting support and maintenance",
+				"Back End Web Development Involving .Net Framework",
+				"End-to-end development of several apps on different platforms",
+				"Front End Web Development involving HTML5, JavaScript and CSS"
+			]
+		},
+		{
+			"company": "Neoris",
+			"position": "Software Developer",
+			"website": "https://www.neoris.com",
+			"startDate": "2015-06-17",
+			"endDate": "2015-12-18",
+			"summary": "Intern",
+			"highlights": [
+				"PoCs of several libraries and frameworks",
+				"Manual Quality Assurance testing of a system for a home improvement supplies retailing company",
+				"Programmed a semaphore on C# for a factory",
+				"UI usability tests of a system for a factory",
+				"Performed image manipulation to overlap a set of images on Java, resulting in the output being sent to SAP MII"
+			]
+		}
+	],
+	"education": [{
+		"institution": "Universidad Autonoma de Nuevo Leon",
+		"area": "Software Engineering",
+		"studyType": "Bachelor",
+		"startDate": "2011-09-01",
+		"endDate": "2016-12-04",
+		"courses": []
+	}],
+	"skills": [{
+		"name": "Cloud Computing",
+		"level": "ADvanced",
+		"keywords": [
+			"Azure",
+			"Artificial Intelligence",
+			"Management",
+			"Web",
+			"ADF"
+		]
+	}],
+	"languages": [{
+			"language": "Spanish",
+			"fluency": "Native speaker"
+		},
+		{
+			"language": "English",
+			"fluency": "Bilingual"
+		},
+		{
+			"language": "German",
+			"fluency": "Beginner"
+		},
+		{
+			"language": "French",
+			"fluency": "Beginner"
+		}
+	],
+	"interests": [{
+			"name": "Martial Artis",
+			"keywords": [
+				"Ninjutsu",
+				"Bujinkan",
+				"Survival",
+				"Tactics"
+			]
+		},
+		{
+			"name": "Weightlifting",
+			"keywords": [
+				"Strength Training",
+				"Sports",
+				"Survival",
+				"Barbell"
+			]
+		},
+		{
+			"name": "Traveling",
+			"keywords": [
+				"World",
+				"Flights",
+				"Discovery",
+				"Luggage"
+			]
+		}
+	],
+	"references": [{
+		"name": "TBD",
+		"reference": "TBD"
+	}]
 }
