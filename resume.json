@@ -1,0 +1,133 @@
+{
+  "basics": {
+    "name": "Marco urrea",
+    "label": "Software",
+    "picture": "https://media-exp1.licdn.com/dms/image/C4E03AQFj0eA4mewCMA/profile-displayphoto-shrink_200_200/0?e=1589414400&v=beta&t=TldmcYFykYfaPY7k6MXS3BqJsPF9OUFk_4ASmrUGU-w",
+    "email": "marco.urrea@me.com",
+    "phone": "+52 (811) 517-4004",
+    "website": "https://www.linkedin.com/in/marcourrea/",
+    "summary": "Marco lives in Monterrey. His work mostly focuses on cloud computing; among his other interests are martial arts, strength training and traveling.",
+    "location": {
+      "address": "San pedro 1320",
+      "postalCode": "66446",
+      "city": "San Nicolas de los Garza",
+      "countryCode": "MX",
+      "region": "Nuevo Leon"
+    },
+    "profiles": [{
+      "network": "Linkedin",
+      "username": "marcourrea",
+      "url": "https://www.linkedin.com/in/marcourrea/"
+    },
+    {
+      "network": "github",
+      "username": "burstingninja",
+      "url": "https://github.com/burstingninja/"
+    }]
+  },
+  "work": [{
+    "company": "Softtek",
+    "position": "Software Developer",
+    "website": "https://www.softtek.com",
+    "startDate": "2017-02-20",
+    "endDate": "2018-02-19",
+    "summary": "Improved processes and its performance",
+    "highlights": [
+      "Automation Lead Engineer in client account; summary of activities:",
+"SAP GUI Automation on C#, Automation of several transactions and several reports by comparing data against given metrics",
+"Heavy automation of processes on Service Now and other websites using Selenium",
+"Generated several Excel reports using EPPLUS and Microsoft Office interop Library for the automation of processes",
+"Desktop application development on C#",
+"Design of algorithms and application architecture for other projects",
+"Programmed some PowerShell scripts",
+"Client, user and app troubleshooting support and maintenance",
+"Back End Web Development Involving .Net Framework",
+"End-to-end development of several apps on different platforms",
+"Front End Web Development involving HTML5, JavaScript and CSS",
+    ]
+  },
+  {
+    "company": "Neoris",
+    "position": "Software Developer",
+    "website": "https://www.neoris.com",
+    "startDate": "2015-06-17",
+    "endDate": "2015-12-18",
+    "summary": "Intern",
+    "highlights": [
+      "PoCs of several libraries and frameworks",
+"Manual Quality Assurance testing of a system for a home improvement supplies retailing company",
+"Programmed a semaphore on C# for a factory",
+"UI usability tests of a system for a factory",
+"Performed image manipulation to overlap a set of images on Java, resulting in the output being sent to SAP MII"
+    ]
+  }],
+,
+  "education": [{
+    "institution": "Universidad Autonoma de Nuevo Leon",
+    "area": "Software Engineering",
+    "studyType": "Bachelor",
+    "startDate": "2011-09-01",
+    "endDate": "2016-12-04",
+    "courses": [
+    ]
+  }],
+  "skills": [{
+    "name": "Cloud Computing",
+    "level": "ADvanced",
+    "keywords": [
+      "Azure",
+      "Artificial Intelligence",
+      "Management",
+      "Web",
+      "ADF"
+    ]
+  }],
+  "languages": [{
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Bilingual"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
+    },
+    {
+      "language": "French",
+      "fluency": "Beginner"
+    }
+  ],
+  "interests": [{
+    "name": "Martial Artis",
+    "keywords": [
+      "Ninjutsu",
+      "Bujinkan",
+      "Survival",
+      "Tactics"
+    ]
+  },
+  {
+    "name": "Weightlifting",
+    "keywords": [
+      "Strength Training",
+      "Sports",
+      "Survival",
+      "Barbell"
+    ]
+  },
+  {
+    "name": "Traveling",
+    "keywords": [
+      "World",
+      "Flights",
+      "Discovery",
+      "Luggage"
+    ]
+  }],
+  "references": [{
+    "name": "TBD",
+    "reference": "TBD"
+  }]
+}
